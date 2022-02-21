@@ -54,5 +54,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="전화 연결(CALL)" />
+
     </LinearLayout>
 </LinearLayout>
